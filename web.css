@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+body {
+    background-color: rgb(255, 255, 255);
+    color: white;
+    font-family: 'lato', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#web-animations {
+    background: rgb(36, 67, 204);
+    width: 200px;
+    height: 200px;
+    margin: 5rem;
+}
